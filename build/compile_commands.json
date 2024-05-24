@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Programming/Lab05_Programming-master/build",
+  "command": "c:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Lab05.dir\\main.cpp.obj -c C:\\Programming\\Lab05_Programming-master\\main.cpp",
+  "file": "C:\\Programming\\Lab05_Programming-master\\main.cpp",
+  "output": "CMakeFiles\\Lab05.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Programming/Lab05_Programming-master/build",
+  "command": "c:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Lab05.dir\\FirstTask.cpp.obj -c C:\\Programming\\Lab05_Programming-master\\FirstTask.cpp",
+  "file": "C:\\Programming\\Lab05_Programming-master\\FirstTask.cpp",
+  "output": "CMakeFiles\\Lab05.dir\\FirstTask.cpp.obj"
+},
+{
+  "directory": "C:/Programming/Lab05_Programming-master/build",
+  "command": "c:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Lab05.dir\\SecondTask.cpp.obj -c C:\\Programming\\Lab05_Programming-master\\SecondTask.cpp",
+  "file": "C:\\Programming\\Lab05_Programming-master\\SecondTask.cpp",
+  "output": "CMakeFiles\\Lab05.dir\\SecondTask.cpp.obj"
+},
+{
+  "directory": "C:/Programming/Lab05_Programming-master/build",
+  "command": "c:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Lab05.dir\\ThirdTask.cpp.obj -c C:\\Programming\\Lab05_Programming-master\\ThirdTask.cpp",
+  "file": "C:\\Programming\\Lab05_Programming-master\\ThirdTask.cpp",
+  "output": "CMakeFiles\\Lab05.dir\\ThirdTask.cpp.obj"
+}
+]

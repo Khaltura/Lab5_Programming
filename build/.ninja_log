@@ -1,0 +1,6 @@
+# ninja log v5
+10	674	7382348701747507	CMakeFiles/Lab05.dir/ThirdTask.cpp.obj	95da0c86f03793fc
+12	518	7382345192918616	CMakeFiles/Lab05.dir/SecondTask.cpp.obj	6c7f1b15e67a7100
+11	640	7382345194128722	CMakeFiles/Lab05.dir/FirstTask.cpp.obj	fd2bdd20d55c846f
+8	557	7382348700599427	CMakeFiles/Lab05.dir/main.cpp.obj	ae97062660d1cb90
+674	847	7382348703418382	Lab05.exe	4efdffed134b8a4c
